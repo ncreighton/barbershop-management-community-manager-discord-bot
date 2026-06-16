@@ -1,2 +1,28 @@
-# barbershop-management-community-manager-discord-bot
-Automated moderation, welcome flows, role management, and engagement analytics for Barbershop Management communities. Purpose-built for Barbershop Management community needs.
+# Barbershop Management Community Manager Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFabJ126H4sc8FG7jCcZq2w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFabJ126H4sc8FG7jCcZq2w)
+
